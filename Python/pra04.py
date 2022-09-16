@@ -1,0 +1,26 @@
+# f1=input("Enter fruit 1 : ")
+# f2=input("Enter fruit 2 : ")
+# f3=input("Enter fruit 3 : ")
+# f4=input("Enter fruit 4 : ")
+# f5=input("Enter fruit 5 : ")
+# f6=input("Enter fruit 6 : ")
+# f7=input("Enter fruit 7 : ")
+# fruits=[f1,f2,f3,f4,f5,f6,f7]
+# print(fruits)
+# m1=int(input("Enter marks of students 1 : "))
+# m2=int(input("Enter marks of students 2 : "))
+# m3=int(input("Enter marks of students 3 : "))
+# m4=int(input("Enter marks of students 4 : "))
+# m5=int(input("Enter marks of students 5 : "))
+# m6=int(input("Enter marks of students 6 : "))
+# marks=[m1,m2,m3,m4,m5,m6]
+# marks.sort()
+# print(marks)
+# t=(1,2,3)
+# t[0]=2
+# print(t)
+# num=[1,2,3,4,5,6]
+# print(num[0]+num[1]+num[2]+num[3]+num[4]+num[5])
+# print(sum(num))
+# a=(7,0,8,0,0,9)
+# print(a.count(0))
